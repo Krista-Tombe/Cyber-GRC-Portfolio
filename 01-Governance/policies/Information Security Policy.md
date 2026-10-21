@@ -6,7 +6,7 @@ Responsible Office: Office of Information Technology \
 Endorsed By: Krista Tombe, Data Governance Risk and Compliance Analyst, approved 10/20/2026 \
 Contact: Krista Tombe, Data Governance Risk and Compliance Analyst \
 Effective Date: 10/20/2026 \
-Last Update: 10/20/2026 \
+Last Update: 10/20/2026 
 
 ## 1. Policy Statement
 The purpose of this policy is to establish a baseline for the information security requirements for a company to ensure the protection of its information assets, 
