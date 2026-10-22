@@ -64,7 +64,30 @@ Information owners shall determine appropriate classifications and handling requ
 
 # 6. Identity and Access Management
 
+The organization shall restrict access to information and systems according to business need, least privilege, and separation of duties when it is appropriate.
+Minimum requirements include:
+
+Each workforce member must use an individually assigned account for routine access.  \ 
+Multi-factor authentication (MFA) should be required for access to systems containing Confidential or Restricted information. This may include MFA to access the worksite physically, accessing computer systems, or any company information above the public confidentiality level.
+Privileged access should be limited to authorized personnel and separate from routine user access where technically feasible. \
+Access rights will be reviewed at least quarterly for privileged accounts and at least semiannually for other in-scope accounts.  \
+Access must be modified or revoked promptly following role changes, termination, contract expiration, or changes in business need. Terminated users' access will be disabled promptly at the coordinated time with Human Resources. \
+Authentication secrets will not be shared or stored in unapproved locations. Suspected credential compromise must be reported immediately.  \
+Authentication and authorization mechanisms should be configured according to approved standards and applicable risk requirements.
+
 # 7. Acceptable Use Policy
+
+Organizational systems, accounts, devices, and information is only to be used for authorized business activities and in accordance with applicable law and contractual obligations. \
+
+Users shall not:  \
+Attempt unauthorized access, privilege escalation, or security-control circumvention.  \
+Install unapproved software or connect unauthorized devices where prohibited by organizational standards.  \
+Disable security tools or monitoring mechanisms without authorization.  \
+Transfer Confidential or Restricted information to personal accounts, unapproved storage, or unauthorized applications.  \
+Use organizational resources to distribute malicious software, conduct unlawful activities, or compromise other systems.  \
+Submit sensitive organizational information to artificial intelligence tools or other external services unless the service and use case have been specifically approved. \
+
+The company must communicate any applicable monitoring practices used and privacy expectations in accordance with law and organizational procedures.
 
 # 8. Network Security
 
