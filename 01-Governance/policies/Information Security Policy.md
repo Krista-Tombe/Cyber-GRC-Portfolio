@@ -29,21 +29,38 @@ additionally includes, but is not limited to, contractors, temporary employees s
 8. Maintain documentation and evidence demonstrating the operation of security controls.
 
 # 4. Governance and Responsibilities 
-## 4.1 Management
+This section will clearly outline the roles and responsibilities in maintaining and enforcing the Information Security Policy within the company. 
 
-## 4.2 Information Security Team
+## 4.1 Management
+The board of management will have the final say in the execution of Information Security policy guidelines and decisions. Executive management will approve the top-level security policy, allocate financial and personnel resources, and reviews security policy semi-annually to ensure that it still meets the company guidelines. 
+
+## 4.2 Head Information Security Officer
+The head of the Information Security officer is the lead on designing, upkeeping, and educating the company faculty on the Information Security Policy. Additionally, the Head of Information Security will be required to perform regular gap analysis, risk assessments, and briefing the management on the results, and updating the policy accordingly. 
 
 ## 4.3 IT Team
+The IT team is responsible for implementing and maintaining the technical safeguards established by the approved policy. They must maintain asset inventories, system configurations, access records, and any other relevant operational evidence. Additionally they must escalate security incidents, control failures, and material risks to the head of information security and appropriate management.
 
 ## 4.4 Workforce Members 
+Company employees are required to abide by the set policies in place to ensure workplace data security. Security awareness trainings must be completed regularly, and employees are expected to report suspected phishing, unauthorized access, data exposure, lost devices, and other security incidents as soon as they occur. 
 
 ## 4.5 Third Parties
+Third parties with access to organizational information or systems shall comply with applicable contractual security requirements and approved access restrictions. The responsible business owner shall ensure that relevant security obligations are established before access or data sharing begins.
 
 # 5. Information Asset Management
 
+
 ## 5.1 Asset Inventory
+The organization will be required to build and maintain a central catalog of all hardware, software, databases, applications, documents, and data flows. As part of this inventory, it is imperative that the Asset "Owner" must be be assigned to the inventory when setup to establish accountability for security decisions. 
 
 ## 5.2 Information Classification
+Organizations typically sort information into tiers based on risk, confidentiality, and impact: \
+
+• Public: Information with no negative impact if disclosed  \
+• Internal-Only: Data meant strictly for employees and authorized business partners  \
+• Confidential: Sensitive records where disclosure causes significant harm or regulatory issues  \
+• Restricted / High Risk: Maximum-security data requiring strict access controls and encryption  \
+
+Information owners shall determine appropriate classifications and handling requirements. Where classification is unknown, employees are expected to protect the information at an assumed higher sensitivity level until its classification is established.
 
 # 6. Identity and Access Management
 
