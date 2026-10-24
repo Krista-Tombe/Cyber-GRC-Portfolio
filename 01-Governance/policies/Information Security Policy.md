@@ -53,12 +53,12 @@ Third parties with access to organizational information or systems shall comply 
 The organization will be required to build and maintain a central catalog of all hardware, software, databases, applications, documents, and data flows. As part of this inventory, it is imperative that the Asset "Owner" must be be assigned to the inventory when setup to establish accountability for security decisions. 
 
 ## 5.2 Information Classification
-Organizations typically sort information into tiers based on risk, confidentiality, and impact: \
+Organizations typically sort information into tiers based on risk, confidentiality, and impact: 
 
 • Public: Information with no negative impact if disclosed  \
 • Internal-Only: Data meant strictly for employees and authorized business partners  \
 • Confidential: Sensitive records where disclosure causes significant harm or regulatory issues  \
-• Restricted / High Risk: Maximum-security data requiring strict access controls and encryption  \
+• Restricted / High Risk: Maximum-security data requiring strict access controls and encryption  
 
 Information owners shall determine appropriate classifications and handling requirements. Where classification is unknown, employees are expected to protect the information at an assumed higher sensitivity level until its classification is established.
 
