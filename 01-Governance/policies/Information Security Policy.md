@@ -77,7 +77,7 @@ Authentication and authorization mechanisms should be configured according to ap
 
 # 7. Acceptable Use Policy
 
-Organizational systems, accounts, devices, and information is only to be used for authorized business activities and in accordance with applicable law and contractual obligations. \
+Organizational systems, accounts, devices, and information is only to be used for authorized business activities and in accordance with applicable law and contractual obligations. 
 
 Users shall not:  \
 Attempt unauthorized access, privilege escalation, or security-control circumvention.  \
@@ -85,11 +85,22 @@ Install unapproved software or connect unauthorized devices where prohibited by 
 Disable security tools or monitoring mechanisms without authorization.  \
 Transfer Confidential or Restricted information to personal accounts, unapproved storage, or unauthorized applications.  \
 Use organizational resources to distribute malicious software, conduct unlawful activities, or compromise other systems.  \
-Submit sensitive organizational information to artificial intelligence tools or other external services unless the service and use case have been specifically approved. \
+Submit sensitive organizational information to artificial intelligence tools or other external services unless the service and use case have been specifically approved. 
 
 The company must communicate any applicable monitoring practices used and privacy expectations in accordance with law and organizational procedures.
 
 # 8. Network Security
+The company must maintain proper security configurations to ensure minimal risk to essential company systems. 
+
+Minimum network maintenance include:
+Supported operating systems and applications must be maintained and updated regularly.  \
+Security patches will be prioritized according to severity, exploitability, and business impact.  \
+Critical vulnerabilities are assessed promptly and remediated within an established risk-based remediation period. Exploited or actively threatened vulnerabilities shall receive expedited treatment.  \
+Network security controls are to be deployed where appropriate to the environment and risk.  \
+Firewalls and network access controls must restrict unnecessary inbound and outbound communications.  \
+Secure configuration baselines will be documented for system standardization and reviewed following significant changes.  \
+Unauthorized software, services, and exposed interfaces must be identified, categorized and addressed appropriately.  \
+Unsupported or end-of-life technology will be upgraded, isolated, or covered by an approved risk exception and compensating safeguards.
 
 # 9. Data Privacy 
 
@@ -107,9 +118,15 @@ The company must communicate any applicable monitoring practices used and privac
 
 # 16. Vulnerability Management
 
-# 17. Internal Assessment
-
-# 18. Policy Review
+# 17. Policy Review
+The policy owner shall review this policy at least annually and following significant events, including:
+Material changes to business operations or technology.  \
+Significant security incidents or emerging threats.  \
+Changes to applicable legal, regulatory, or contractual requirements.  \
+Material audit findings or control deficiencies.  \
+Changes to the organization's risk tolerance or security program.  \
+Revisions shall be documented, reviewed by appropriate stakeholders, and approved by the designated approval authority before becoming effective.  \
+Superseded versions shall be retained according to the organization's document retention requirements.
 
 Referenced Standards:
 
