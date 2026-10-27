@@ -133,7 +133,7 @@ Log record details must cover relevant authentication events: \
 # 11. Security Awareness and Training
 All workforce members will be required to complete security awareness training during onboarding, and will be required to take follow up trainings annually afterwards.
 
-Training should address the following as applicable:
+Training should address the following as applicable:  \
 -Phishing, spear phishing, and social engineering tactics.  \
 -Credential protection and MFA.  \
 -Data classification and secure handling.  \
